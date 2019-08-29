@@ -1,5 +1,5 @@
 # docker-php7.0-apache
-Docker image with old php 7.0 with common extensions
+Docker image with old php 7.0 running on apache2 with usual php extensions:
 
 - php7.0
 - php7.0-bcmath
@@ -13,3 +13,4 @@ Docker image with old php 7.0 with common extensions
 - php7.0-xdebug
 
 Based on Debian stretch
+
