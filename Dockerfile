@@ -22,6 +22,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt update && apt upgrade -y && apt install -
     php7.0-mbstring \
     php7.0-mysql \
     php7.0-sqlite3 \
+    php7.0-soap \
     php7.0-xml \
     php7.0-zip \
     php7.0-xdebug
