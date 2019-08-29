@@ -1,7 +1,8 @@
 # docker-php7.0-apache
-Docker image with old php 7.0 with standard extensions
+Docker image with old php 7.0 with common extensions
 
 - php7.0
+- php7.0-bcmath
 - php7.0-mcrypt
 - php7.0-mbstring
 - php7.0-mysql
@@ -11,3 +12,4 @@ Docker image with old php 7.0 with standard extensions
 - php7.0-zip
 - php7.0-xdebug
 
+Based on Debian stretch
